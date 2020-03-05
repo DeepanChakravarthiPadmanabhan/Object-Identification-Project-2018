@@ -1,6 +1,12 @@
 # Object-Identification-Project-2018
 Advanced Software Technology Project
 
+Team Members:
+
+[Deepan Chakravarthi Padmanabhan](https://github.com/DeepanChakravarthiPadmanabhan)
+
+[Muhammed Umer Ahmad Khan](https://github.com/umerkhan-mas)
+
 [Git Link](https://github.com/umerkhan-mas/Object-Identification-Project-2018/)
 
 The library consists of a classification system that takes in a list of sensor datas and provides the proper classification by taking in account all the provided sensors. 
